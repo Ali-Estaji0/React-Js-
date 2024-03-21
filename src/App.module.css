@@ -1,0 +1,24 @@
+.App {
+    text-align: center;
+    align-items: center;
+    color: white;
+    font-size: calc(10px + 2vmin);
+  }
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .kos-nnt{
+    padding-top: 50px;
+    color: blue;
+    text-decoration: dotted;
+    text-shadow: 2px black;
+    width: 60px;
+    height: 40px;
+  }
